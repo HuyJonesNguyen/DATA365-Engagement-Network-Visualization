@@ -43,7 +43,9 @@ id,course_title,course_duration,avg_course_rating,minutes_watched,minutes_per_st
 53,A/B Testing in Python,176.47,4.6923,6227.82,24.14,0.14,258,course
 54,Machine Learning with Decision Trees and Random Forests,88.15,4.7778,4267.68,33.08,0.38,129,course
 55,Machine Learning with K-Nearest Neighbors,79.93,4.7333,3475.05,32.18,0.4,108,course
+56,Machine Learning with Ridge and Lasso Regression,75.01,4,1696.66,30.85,0.41,55,course
 57,Data-Driven Business Growth,213.27,1,1089.26,11.84,0.06,92,course
 59,Marketing Strategy,106.79,4.5,341.48,68.3,0.64,5,course
+60,Negotiation,88.7,4,84.45,84.45,0.95,1,course
 66,Blockchain for Business,328.22,3,454.32,64.9,0.2,7,course
 67,How to Think Like a Data Scientist to Become One,174.45,4.6111,5089.67,44.65,0.26,114,course
