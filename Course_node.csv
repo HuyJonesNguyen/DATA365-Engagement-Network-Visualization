@@ -1,49 +1,49 @@
-course_id,course_title,course_duration,avg_course_rating,minutes_watched,minutes_per_student,completion_rate,no_student_enroll
-2,"Introduction to Tableau",95.93,4.6098,26179.02,40.21,0.42,651
-3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",514.23,4.7027,44950.58,74.79,0.15,601
-4,"Introduction to R Programming",386.65,4.8929,20737.1,69.12,0.18,300
-5,"Data Preprocessing with NumPy",392.99,4.9118,37058.31,99.35,0.25,373
-7,"Introduction to Data and Data Science",110.69,4.8539,297197.71,29.87,0.27,9950
-11,"Data Cleaning and Preprocessing with pandas",145.2,4.6429,21701.18,45.12,0.31,481
-12,"Introduction to Business Analytics",283.87,4.4000,10002.14,38.62,0.14,259
-13,"Data Analysis with Excel Pivot Tables",54.47,4.8454,22321.72,23.08,0.42,967
-14,SQL,491.35,4.8261,215894.11,114.72,0.23,1882
-15,"Credit Risk Modeling in Python",388.2,4.7059,19513.04,42.98,0.11,454
-16,"Python Programmer Bootcamp",648.47,4.8319,150891.8,107.55,0.17,1403
-19,"SQL + Tableau + Python",260.01,5.0000,5081.72,22.09,0.08,230
-20,"Introduction to Jupyter",34.61,4.9385,12035.7,15.53,0.45,775
-21,Statistics,201.65,4.8225,199005.66,80.93,0.4,2459
-22,Mathematics,51.08,4.8406,18588.64,24.65,0.48,754
-23,"Introduction to Excel",220.36,4.7882,194196.44,63.11,0.29,3077
-24,Probability,219.94,4.6769,57515.15,81.12,0.37,709
-25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",241.93,4.8571,16635.13,34.02,0.14,489
-26,"SQL + Tableau",79.23,4.7778,7304.91,22.62,0.29,323
-27,"Time Series Analysis with Python",419.76,4.6923,12947.33,53.5,0.13,242
-28,"Power BI",462.75,4.6122,44698.18,54.05,0.12,827
-29,"Product Management for AI & Data Science",294.28,4.8421,8852.64,35.13,0.12,252
-30,"Git and GitHub",49.57,4.9070,9997.8,24.5,0.49,408
-32,"Deep Learning with TensorFlow 2",293.6,4.8125,17836.6,56.99,0.19,313
-33,"Customer Analytics in Python",288,4.9231,10147.6,48.55,0.17,209
-34,"Web Scraping and API Fundamentals in Python",211.27,4.5833,13879.82,40.82,0.19,340
-35,"Introduction to Python",130.44,4.7387,45381.43,41.29,0.32,1099
-36,"Python for Finance",263.06,4.6000,5539.91,29.95,0.11,185
-37,"Machine Learning in Python",292.42,4.8302,54566.52,50.9,0.17,1072
-39,"Advanced Microsoft Excel",146.09,4.7818,29763.26,51.85,0.35,574
-41,"Convolutional Neural Networks with TensorFlow in Python",266.67,4.7500,4890.35,37.91,0.14,129
-42,"Data Strategy",291.57,4.7425,133662.39,63.41,0.22,2108
-43,"Fashion Analytics with Tableau",198.33,4.5714,4868.47,29.69,0.15,164
-44,"Dates and Times in Python",120.1,4.8750,2824.45,29.73,0.25,95
-45,"SQL for Data Science Interviews",147.35,4.7778,18614.85,13.17,0.09,1413
-46,"Data Literacy",252.6,4.7662,80613.75,117.68,0.47,685
-48,"AI Applications for Business Success",133.91,4.2500,1921.06,19.21,0.14,100
-49,"Linear Algebra and Feature Selection",172.89,4.8750,4827.08,33.99,0.2,142
-50,"Machine Learning with Naive Bayes",66.83,4.7368,4598.38,23.22,0.35,198
-51,"Machine Learning in Excel",353.98,4.6667,4444.74,27.95,0.08,159
-52,"Machine Learning with Support Vector Machines",55.18,4.7500,2961.85,25.31,0.46,117
-53,"A/B Testing in Python",176.47,4.6923,6227.82,24.14,0.14,258
-54,"Machine Learning with Decision Trees and Random Forests",88.15,4.7778,4267.68,33.08,0.38,129
-55,"Machine Learning with K-Nearest Neighbors",79.93,4.7333,3475.05,32.18,0.4,108
-57,"Data-Driven Business Growth",213.27,1.0000,1089.26,11.84,0.06,92
-59,"Marketing Strategy",106.79,4.5000,341.48,68.3,0.64,5
-66,"Blockchain for Business",328.22,3.0000,454.32,64.9,0.2,7
-67,"How to Think Like a Data Scientist to Become One",174.45,4.6111,5089.67,44.65,0.26,114
+id,course_title,course_duration,avg_course_rating,minutes_watched,minutes_per_student,completion_rate,no_student_enroll,type
+2,Introduction to Tableau,95.93,4.6098,26179.02,40.21,0.42,651,course
+3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",514.23,4.7027,44950.58,74.79,0.15,601,course
+4,Introduction to R Programming,386.65,4.8929,20737.1,69.12,0.18,300,course
+5,Data Preprocessing with NumPy,392.99,4.9118,37058.31,99.35,0.25,373,course
+7,Introduction to Data and Data Science,110.69,4.8539,297197.71,29.87,0.27,9950,course
+11,Data Cleaning and Preprocessing with pandas,145.2,4.6429,21701.18,45.12,0.31,481,course
+12,Introduction to Business Analytics,283.87,4.4,10002.14,38.62,0.14,259,course
+13,Data Analysis with Excel Pivot Tables,54.47,4.8454,22321.72,23.08,0.42,967,course
+14,SQL,491.35,4.8261,215894.11,114.72,0.23,1882,course
+15,Credit Risk Modeling in Python,388.2,4.7059,19513.04,42.98,0.11,454,course
+16,Python Programmer Bootcamp,648.47,4.8319,150891.8,107.55,0.17,1403,course
+19,SQL + Tableau + Python,260.01,5,5081.72,22.09,0.08,230,course
+20,Introduction to Jupyter,34.61,4.9385,12035.7,15.53,0.45,775,course
+21,Statistics,201.65,4.8225,199005.66,80.93,0.4,2459,course
+22,Mathematics,51.08,4.8406,18588.64,24.65,0.48,754,course
+23,Introduction to Excel,220.36,4.7882,194196.44,63.11,0.29,3077,course
+24,Probability,219.94,4.6769,57515.15,81.12,0.37,709,course
+25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",241.93,4.8571,16635.13,34.02,0.14,489,course
+26,SQL + Tableau,79.23,4.7778,7304.91,22.62,0.29,323,course
+27,Time Series Analysis with Python,419.76,4.6923,12947.33,53.5,0.13,242,course
+28,Power BI,462.75,4.6122,44698.18,54.05,0.12,827,course
+29,Product Management for AI & Data Science,294.28,4.8421,8852.64,35.13,0.12,252,course
+30,Git and GitHub,49.57,4.907,9997.8,24.5,0.49,408,course
+32,Deep Learning with TensorFlow 2,293.6,4.8125,17836.6,56.99,0.19,313,course
+33,Customer Analytics in Python,288,4.9231,10147.6,48.55,0.17,209,course
+34,Web Scraping and API Fundamentals in Python,211.27,4.5833,13879.82,40.82,0.19,340,course
+35,Introduction to Python,130.44,4.7387,45381.43,41.29,0.32,1099,course
+36,Python for Finance,263.06,4.6,5539.91,29.95,0.11,185,course
+37,Machine Learning in Python,292.42,4.8302,54566.52,50.9,0.17,1072,course
+39,Advanced Microsoft Excel,146.09,4.7818,29763.26,51.85,0.35,574,course
+41,Convolutional Neural Networks with TensorFlow in Python,266.67,4.75,4890.35,37.91,0.14,129,course
+42,Data Strategy,291.57,4.7425,133662.39,63.41,0.22,2108,course
+43,Fashion Analytics with Tableau,198.33,4.5714,4868.47,29.69,0.15,164,course
+44,Dates and Times in Python,120.1,4.875,2824.45,29.73,0.25,95,course
+45,SQL for Data Science Interviews,147.35,4.7778,18614.85,13.17,0.09,1413,course
+46,Data Literacy,252.6,4.7662,80613.75,117.68,0.47,685,course
+48,AI Applications for Business Success,133.91,4.25,1921.06,19.21,0.14,100,course
+49,Linear Algebra and Feature Selection,172.89,4.875,4827.08,33.99,0.2,142,course
+50,Machine Learning with Naive Bayes,66.83,4.7368,4598.38,23.22,0.35,198,course
+51,Machine Learning in Excel,353.98,4.6667,4444.74,27.95,0.08,159,course
+52,Machine Learning with Support Vector Machines,55.18,4.75,2961.85,25.31,0.46,117,course
+53,A/B Testing in Python,176.47,4.6923,6227.82,24.14,0.14,258,course
+54,Machine Learning with Decision Trees and Random Forests,88.15,4.7778,4267.68,33.08,0.38,129,course
+55,Machine Learning with K-Nearest Neighbors,79.93,4.7333,3475.05,32.18,0.4,108,course
+57,Data-Driven Business Growth,213.27,1,1089.26,11.84,0.06,92,course
+59,Marketing Strategy,106.79,4.5,341.48,68.3,0.64,5,course
+66,Blockchain for Business,328.22,3,454.32,64.9,0.2,7,course
+67,How to Think Like a Data Scientist to Become One,174.45,4.6111,5089.67,44.65,0.26,114,course
